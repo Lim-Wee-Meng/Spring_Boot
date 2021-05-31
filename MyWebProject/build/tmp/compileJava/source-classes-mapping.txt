@@ -6,6 +6,8 @@ org/generation/MyWebProject/service/ItemServiceMySQL.java
  org.generation.MyWebProject.service.ItemServiceMySQL
 org/generation/MyWebProject/MyWebProjectApplication.java
  org.generation.MyWebProject.MyWebProjectApplication
+org/generation/MyWebProject/controller/ItemController.java
+ org.generation.MyWebProject.controller.ItemController
 org/generation/MyWebProject/security/MvcConfig.java
  org.generation.MyWebProject.security.MvcConfig
 org/generation/MyWebProject/repository/ItemRepository.java
@@ -14,5 +16,5 @@ org/generation/MyWebProject/service/ItemService.java
  org.generation.MyWebProject.service.ItemService
 org/generation/MyWebProject/controller/dto/ItemDTO.java
  org.generation.MyWebProject.controller.dto.ItemDTO
-org/generation/MyWebProject/controller/ItemController.java
- org.generation.MyWebProject.controller.ItemController
+org/generation/MyWebProject/security/WebSecurityConfig.java
+ org.generation.MyWebProject.security.WebSecurityConfig
